@@ -9,7 +9,7 @@ The range was measured using a usb monocular camera
 
 You need to download and install ros and the usb_camera package that comes with ros
 
-First, you need to be able to boot the usb camera properly
+First, you need to be able to boot the usb camera properly (ros will publish the camera topic, you need to change it in the launch file to match it）
 
 Then run the yolo_v5.launch file
 
